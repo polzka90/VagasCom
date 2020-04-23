@@ -1,0 +1,9 @@
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\bin\Debug\netcoreapp3.1\VagasCom.Domain.deps.json
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\bin\Debug\netcoreapp3.1\VagasCom.Domain.dll
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.csprojAssemblyReference.cache
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.AssemblyInfoInputs.cache
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.AssemblyInfo.cs
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\bin\Debug\netcoreapp3.1\VagasCom.Domain.pdb
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.dll
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.pdb
+C:\PrivateWorkSpace\VagasCom\VagasCom.Domain\obj\Debug\netcoreapp3.1\VagasCom.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  web-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vagascomdocker
+    expose:
+      - "52120"
+    ports:
+      - "52120:80"
